@@ -1,17 +1,25 @@
-[![MasterHead] (https://anvil.works/learn/tutorials/img/google-colab-notebook-to-web-app/google_colab_demo.gif)](https://rahuldkjain.github.io)
+<img src="https://static-assets.codecademy.com/assets/course-landing-page/meta/4x3/machine-learning-engineer.jpg" alt="MasterHead" width="100%" style="object-fit: cover; height: 200px;">
+
 <h1 align="center">Hi 👋, I'm Irfan Hayat</h1>
 <h3 align="center">A passionate AI/ML Engineer from Pakistan</h3>
-< img allign="right" alt="codeing" width="400" src="https://anvil.works/learn/tutorials/img/google-colab-notebook-to-web-app/google_colab_demo.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanhayat361&label=Profile%20views&color=0e75b6&style=flat" alt="irfanhayat361" /> </p>
+<table>
+<tr>
+<td width="60%">
 
-- 🌱 I’m currently learning **AI/ML Engineering**
+<p align="left"> <img src="https://anvil.works/learn/tutorials/img/google-colab-notebook-to-web-app/google_colab_demo.gif" alt="irfanhayat361" alt="irfanhayat361" /> </p>
 
-- 💬 Ask me about **AI/ML Model training, Evaluation,Testing.**
+- 🌱 I'm currently learning **AI/ML Engineering**
+
+- 💬 Ask me about **AI/ML Model training, Evaluation, Testing.**
 
 - 📫 How to reach me **irfanhayat361@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+
+
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
